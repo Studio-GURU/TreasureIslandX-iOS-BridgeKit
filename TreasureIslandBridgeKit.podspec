@@ -9,7 +9,7 @@ Pod::Spec.new do |spec|
     spec.author                 = { 'Guru Company Studio' => 'engineer@gurucompany.co.kr' }
     spec.platform               = :ios, '13.0'
     spec.ios.deployment_target  = '13.0'
-    spec.source                 = { :git => 'https://github.com/Studio-GURU/TreasureIsland-iOS-Plug-PurchaseKit.git', :tag => '25.1.9' }
+    spec.source                 = { :git => 'https://github.com/Studio-GURU//TreasureIsland-iOS-BridgeKit.git', :tag => '25.1.9' }
     spec.vendored_frameworks    = 'TreasureIslandBridgeKit.xcframework'
     spec.description            = 'Library for providing a webtoon system for iOS application in GuruCompany'
     spec.license                = { :type => 'MIT', :text => <<-LICENSE
