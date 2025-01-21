@@ -42,7 +42,7 @@
 		</data>
 		<key>ios-arm64/TreasureIslandBridgeKit.framework/TreasureIslandXConfig.xcconfig</key>
 		<data>
-		n33edaV0ZevgNBwj6wIbQYLDUGk=
+		gdcCobfs84i/gKU3lzGS96Qeilo=
 		</data>
 		<key>ios-arm64_x86_64-simulator/TreasureIslandBridgeKit.framework/Headers/TreasureIslandBridgeKit-Swift.h</key>
 		<data>
@@ -94,15 +94,15 @@
 		</data>
 		<key>ios-arm64_x86_64-simulator/TreasureIslandBridgeKit.framework/TreasureIslandBridgeKit</key>
 		<data>
-		pQiDHbKEFRmDnZ3l6W/QChu2F24=
+		YKeKhAu/TqAE0skwWaijnrm8qmo=
 		</data>
 		<key>ios-arm64_x86_64-simulator/TreasureIslandBridgeKit.framework/TreasureIslandXConfig.xcconfig</key>
 		<data>
-		n33edaV0ZevgNBwj6wIbQYLDUGk=
+		gdcCobfs84i/gKU3lzGS96Qeilo=
 		</data>
 		<key>ios-arm64_x86_64-simulator/TreasureIslandBridgeKit.framework/_CodeSignature/CodeResources</key>
 		<data>
-		WpKDMRi7x9w2vZtM54a8mNKSaM4=
+		KuZ8NHor2KST6JhWpBNXPX4Nl3M=
 		</data>
 	</dict>
 	<key>files2</key>
@@ -210,11 +210,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			n33edaV0ZevgNBwj6wIbQYLDUGk=
+			gdcCobfs84i/gKU3lzGS96Qeilo=
 			</data>
 			<key>hash2</key>
 			<data>
-			6OJH4EPlxE4ophjhCisvsiRHGm7oNb5JdB35vDXRZ48=
+			xMk/LB3zcw8C+C8PWlFVtrIQImJU8VnU1qza8X2lKgk=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-simulator/TreasureIslandBridgeKit.framework/Headers/TreasureIslandBridgeKit-Swift.h</key>
@@ -353,33 +353,33 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			pQiDHbKEFRmDnZ3l6W/QChu2F24=
+			YKeKhAu/TqAE0skwWaijnrm8qmo=
 			</data>
 			<key>hash2</key>
 			<data>
-			PTgxmvdfg4Tgen9F3UxKagstgdAKoCCuDv76+XhhNos=
+			SvHL1292DRTJplD9MP9leW5oVNp/nIoaE+0rEkQC+WA=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-simulator/TreasureIslandBridgeKit.framework/TreasureIslandXConfig.xcconfig</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			n33edaV0ZevgNBwj6wIbQYLDUGk=
+			gdcCobfs84i/gKU3lzGS96Qeilo=
 			</data>
 			<key>hash2</key>
 			<data>
-			6OJH4EPlxE4ophjhCisvsiRHGm7oNb5JdB35vDXRZ48=
+			xMk/LB3zcw8C+C8PWlFVtrIQImJU8VnU1qza8X2lKgk=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-simulator/TreasureIslandBridgeKit.framework/_CodeSignature/CodeResources</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			WpKDMRi7x9w2vZtM54a8mNKSaM4=
+			KuZ8NHor2KST6JhWpBNXPX4Nl3M=
 			</data>
 			<key>hash2</key>
 			<data>
-			S2faJxLpUWiSdnUxRaeHjFOH1Mo2UtpTHWd36ca9dso=
+			jGJiQfffLPNVaOZcBon5k0jgYyT1619V3BMBbKrzDUI=
 			</data>
 		</dict>
 	</dict>
