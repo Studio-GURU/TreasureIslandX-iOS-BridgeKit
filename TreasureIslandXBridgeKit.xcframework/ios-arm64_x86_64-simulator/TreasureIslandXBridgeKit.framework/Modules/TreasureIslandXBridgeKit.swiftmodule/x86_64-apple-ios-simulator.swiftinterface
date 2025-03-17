@@ -13,6 +13,8 @@ import _SwiftConcurrencyShims
   @objc public static func initialize(_ params: Foundation.NSString, completionHandler: @escaping (_ success: Foundation.NSNumber, _ message: Foundation.NSString) -> Swift.Void)
   @objc public static func setProfile(_ params: Foundation.NSString, completionHandler: @escaping (_ success: Foundation.NSNumber, _ message: Foundation.NSString) -> Swift.Void)
   @objc public static func launch(_ params: Foundation.NSString, completionHandler: @escaping (_ success: Foundation.NSNumber, _ message: Foundation.NSString) -> Swift.Void)
+  @objc public static func recentContent(_ params: Foundation.NSString, completionHandler: @escaping (_ success: Foundation.NSNumber, _ message: Foundation.NSString) -> Swift.Void)
+  @objc public static func RecommendationContent(_ params: Foundation.NSString, completionHandler: @escaping (_ success: Foundation.NSNumber, _ message: Foundation.NSString) -> Swift.Void)
   @objc override dynamic public init()
   @objc deinit
 }

@@ -310,6 +310,8 @@ SWIFT_CLASS("_TtC24TreasureIslandXBridgeKit23TreasureIslandBridgeKit")
 + (void)initialize:(NSString * _Nonnull)params completionHandler:(void (^ _Nonnull)(NSNumber * _Nonnull, NSString * _Nonnull))completionHandler;
 + (void)setProfile:(NSString * _Nonnull)params completionHandler:(void (^ _Nonnull)(NSNumber * _Nonnull, NSString * _Nonnull))completionHandler;
 + (void)launch:(NSString * _Nonnull)params completionHandler:(void (^ _Nonnull)(NSNumber * _Nonnull, NSString * _Nonnull))completionHandler;
++ (void)recentContent:(NSString * _Nonnull)params completionHandler:(void (^ _Nonnull)(NSNumber * _Nonnull, NSString * _Nonnull))completionHandler;
++ (void)RecommendationContent:(NSString * _Nonnull)params completionHandler:(void (^ _Nonnull)(NSNumber * _Nonnull, NSString * _Nonnull))completionHandler;
 - (nonnull instancetype)init OBJC_DESIGNATED_INITIALIZER;
 @end
 
