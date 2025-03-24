@@ -275,8 +275,8 @@
           },
           {
             "kind": "Function",
-            "name": "RecommendationContent",
-            "printedName": "RecommendationContent(_:completionHandler:)",
+            "name": "recommendationContent",
+            "printedName": "recommendationContent(_:completionHandler:)",
             "children": [
               {
                 "kind": "TypeNominal",
@@ -322,8 +322,8 @@
               }
             ],
             "declKind": "Func",
-            "usr": "c:@M@TreasureIslandXBridgeKit@objc(cs)TreasureIslandBridgeKit(cm)RecommendationContent:completionHandler:",
-            "mangledName": "$s24TreasureIslandXBridgeKit0ab6BridgeD0C21RecommendationContent_17completionHandlerySo8NSStringC_ySo8NSNumberC_AGtctFZ",
+            "usr": "c:@M@TreasureIslandXBridgeKit@objc(cs)TreasureIslandBridgeKit(cm)recommendationContent:completionHandler:",
+            "mangledName": "$s24TreasureIslandXBridgeKit0ab6BridgeD0C21recommendationContent_17completionHandlerySo8NSStringC_ySo8NSNumberC_AGtctFZ",
             "moduleName": "TreasureIslandXBridgeKit",
             "static": true,
             "declAttributes": [
